@@ -25,7 +25,7 @@
   "dependencies": {
     "async": "",
     "event-stream": "*",
-    "gulp-util": "~2.2.6",
+    "gulp-util": "~3.0.1",
     "knox": "",
     "mime": "~1.2.11"
   },
